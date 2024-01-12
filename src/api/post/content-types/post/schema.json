@@ -22,6 +22,9 @@
     },
     "content": {
       "type": "richtext"
+    },
+    "readingTime": {
+      "type": "string"
     }
   }
 }
